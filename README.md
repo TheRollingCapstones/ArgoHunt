@@ -1,15 +1,30 @@
 # ArgoHunt
 
-Deliverables: Contents ( Project Report, Installation Manual, User Manual, Source Code)
+final_submission: Contents (The Rolling Capstones Project Report, Manuals, Source Code)
 
 Details:
 
-    1. Project report 
+1. The Rolling Capstones Project Report document
 
-    2. Manuals
-    +-- A. User manual
-    +-- B. Installation manual 
+2. Manuals
++-- A. Argohunt Manuals
+|   +-- 1. Argohunt User Manual document
+|   +-- 2. Argohunt Intallation Manual document
 
-    3. Code, scripts
-    +-- A. Source code
-    +-- B. DB and scripts
++-- B. ArgohuntAPI Manuals
+|   +-- 1. ArgohuntAPI Administrator Manual document
+|   +-- 2. ArgohuntAPI Installation Manual document
+
+3. Source Code
++-- A. Repositories document
+|   +-- 1. ArgoHuntAPI - https://github.com/TheRollingCapstones/ArgoHuntAPI
+|   +-- 2. ArgoHunt - https://github.com/TheRollingCapstones/ArgoHunt
+
++-- B. Heroku
++--
+
++-- C. DB
++--
+
++-- D. Scripts
++--
