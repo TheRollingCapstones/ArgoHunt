@@ -1,8 +1,8 @@
 # ArgoHunt
 
-ArgoHunt: Contents ( Project Report, Installation Manual, User Manual, Source Code)
+Deliverables: Contents ( Project Report, Installation Manual, User Manual, Source Code)
 
-Deliverables:
+Details:
 
     1. Project report 
 
