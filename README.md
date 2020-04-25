@@ -19,12 +19,3 @@ Details:
 +-- A. Repositories document
 |   +-- 1. ArgoHuntAPI - https://github.com/TheRollingCapstones/ArgoHuntAPI
 |   +-- 2. ArgoHunt - https://github.com/TheRollingCapstones/ArgoHunt
-
-+-- B. Heroku
-+--
-
-+-- C. DB
-+--
-
-+-- D. Scripts
-+--
